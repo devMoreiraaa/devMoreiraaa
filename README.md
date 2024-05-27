@@ -13,4 +13,4 @@
   <img align="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img align="center" alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
   
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
